@@ -221,23 +221,5 @@ Bucket S3 da AWS
 
 Arquivos locais usando /public/uploads
 
-Se quiser, posso implementar upload com S3, upload local, ou Cloudinary.
 
 <br>
-🚀 10. Próximos Passos (opcional)
-
-Posso implementar para você:
-
-Painel admin completo com gráficos e dashboard
-
-Upload real de fotos
-
-Sistema de aprovação de adoções
-
-Sistema de notificação por e-mail
-
-App mobile Expo/React Native
-
-Autenticação com Refresh Token
-
-Deploy free (Railway + Vercel)
